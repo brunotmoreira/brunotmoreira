@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunotmoreira
-- 👀 I’m interested in Python and javascrip
+- 👀 I’m interested in Python and javascript
 - 🌱 I’m currently learning Python 3.0
 - 📫 Sou brasileiro e estou começando minha trajetória no mundo dos códigos! Tenho interesse em agregar nos projetos voltados ao aprimoramento de habilidades técnicas em programação com intuito educacional!
 
