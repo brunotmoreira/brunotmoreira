@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunotmoreira
-- 👀 I’m interested in Python and javascript
-- 🌱 I’m currently learning Python 3.0
-- 📫 Sou brasileiro e estou começando minha trajetória no mundo dos códigos! Tenho interesse em agregar nos projetos voltados ao aprimoramento de habilidades técnicas em programação com intuito educacional!
+- 👀 I’m interested in Lua, javascript and VBA.
+- 🌱 I’m currently learning javascript 
+- 📫 Estou no primeiro semestre de ADS.
 
 <!---
 brunotmoreira/brunotmoreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
