@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunotmoreira
 - 👀 I’m interested in Lua, javascript and VBA.
 - 🌱 I’m currently learning javascript 
-- 📫 Estou no primeiro semestre de ADS.
+- 📫 Estou no segundo semestre de ADS.
 
 <!---
 brunotmoreira/brunotmoreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
